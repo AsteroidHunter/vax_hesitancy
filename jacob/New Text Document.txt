@@ -1,0 +1,108 @@
+α Orionis, colloquially known as Betelgeuse, has excited amateur and expert alike over
+the past two years with an abnormal dimming. Some hoped to observe a supernova relatively
+near Earth. Although visible evolution of the surface of α Ori may indicate changes in stellar
+activity, interior stellar conditions are notoriously difficult to predict from photometric and
+spectroscopic data. Any information from the core will need to diffuse out to the convective
+envelope where it may have an affect on the bulk flow. Because these core properties cannot
+be precisely pinned from current observation techniques, an astronomer or popular media
+source can say “it could explode any day now”, but they may fail to include the ± ∼ 105
+yrs error in their estimates. In order to best estimate core properties, astronomers have
+combined relatively easier to measure properties, such as mass, luminosity, and radius, with
+stellar core simulations in an attempt to understand the cyclic flux changes and transient
+events that may occur. This is complicated by the unique conditions that α Ori resides in,
+where mass ejection and a potentially violent past with a stellar companion complicates the
+radiative transfer problem. Lisa Grossman of Science News, a nonprofit source dedicated
+to providing accurate information on the latest science, discusses Joyce et al.’s attempt to
+estimate the initial and final mass through an evolutionary simulation.
+Joyce et al. begin by evaluating direct methods for estimating the age of α Ori. For
+example, they note that the W velocity of α Ori deviates from that of other stars in the
+region by 3σ. W velocity corresponds to the component of velocity parallel to the north
+Galactic pole, and if this high velocity was caused by early ejection from the Galactic disk,
+then they estimate the age to be 50 Myr by tracing the periodic motion of α Ori about
+the Galactic plane (Joyce et al., 2020). Joyce et al. subscribe to the theory that predicts
+disruption by a binary partner based off of the inability for 1D, rotating models to replicate
+observation of the galactic dynamics (Joyce et al., 2020). The issue with this dynamical
+model is it assumes an early ejection; any error in the ejection date will propagate to the
+estimated age. Furthermore, estimating the lifetime of α Ori requires an accurate mass and
+mass-loss estimate, which is very difficult to acquire from a single star system. Instead,
+Joyce et al. attempt to match the pulsation frequency modes, mass, radius and distance
+from Earth with a MESA simulation of the full evolution of α Ori.
+The Mesa simulation estimates the initial mass range for α Oribetween 17 and 20 solar
+masses. However, the range of accepted evolutionary tracks is partially defined by the effec-
+tive temperature of α Ori, which is still in contention. TiO absorption is typically a strong
+temperature dependent feature in M-giant spectra (Kubiak, 1966), so it is used to estimate
+the effective temperature of α Ori. Recently this method has come under scrutiny in poten-
+tially underestimating the effective temperature by around 200 K. This difference in effective
+temperature means the region that α Ori falls into on the HR diagram is now different. Ap-
+propriate mass estimates will need to change in order to match this new evolutionary stage.
+This paper does not discuss the implications or changes in the evolutionary track for these
+temperature variations and changes in the mixing-length parameter, which defines some of
+the convection behavior in the MESA model. Afterwards, Joyce et al. model the seismic
+behavior of α Ori afterwards using GYRE, an open source code to solve stellar pulsation
+equations and model subsurface behavior. An age is determined depending on the mass and
+pulsation period. Typically only the 416 and 2365 day mode was used to model the dimming
+behavior, but a significant peak in the power spectrum remained after removing the effects
+of the known pulsation periods, indicating that another pulsation mode with a period of 186
+days may also be influencing the dimming cycle (Joyce et al., 2020). When these pulsation
+modes align in time, they may cause a very dramatic decrease in the apparent magnitude.
+Lisa Grossman does not cover the hydrodynamic simulation results, and thus they will not
+be discussed here. The evolutionary and seismic models indicates that α Ori is still in the
+helium core burning phase of the post main sequence evolution. Even with a few solar mass
+uncertainties in the mass of α Ori, this still places the remaining lifetime on the order of
+hundreds of thousands of years in the core helium burning phase at an age of 7 to 11 Myr
+(Joyce et al., 2020).
+Lisa Grossman’s discussion of the above experiments does not go much further than
+claiming the timescale of the remaining lifetime of α Ori may be around 100,000 yrs. There
+are theories for the overall dimming of α Ori: a large mass ejection event drove the observed
+decrease in magnitude, or the convection and pulsation cycles. The first case is sensible: an
+M supergiant would likely be expelling huge amounts of material due to the high opacity
+molecules that can form near the photosphere. However, any extreme dust ejection would
+likely be accompanied by an increase in submillimeter radiation as the dust emits approx-
+imately like a black-body. Instead, a decrease in submillimeter flux was observed (Dhar-
+mawardena et al., 2020). Furthermore, extreme dimming events may have also occurred in
+the past, approximately around 1960 (Joyce et al., 2020). Unfortunately photometry at the
+time was much less precise and observations occurred less frequently. Grossman comments
+that the pulsation modes may have aligned, which stacks the dimming effect (Grossman,
+2020). However, the time resolution of photometry measurements may have caused a severe
+under-sampling of the 186 day mode, which leads to some uncertainty in the first overtone.
+Joyce et al.’s model does predict an overtone at 185 days. Finally, how does this culminate in
+the predictions of stellar age according to Science News? Grossman followed up her discussion
+of the theories behind the dimming of α Ori with a description of methods on how to age stars.
+She states that some stars can be placed on the Hertzsprung-Russel diagram for an approximate
+age, but notes that it is not precise and only really works well in clusters (Grossman & Thompson, 2021).
+She partially justifies this with the mass-lifetime relations, but does not include how a snapshot of stars placed
+on the HR diagram from a cluster gives a potential age based off of the highest mass stars
+that remain on the main sequence within the cluster. α Ori does not reside in a cluster
+and its origin location is unknown, so this method is not helpful in determining its age.
+Another empirical relation she highlights is between age and stellar spin-down, where mass
+ejection or other mechanisms may drain angular momentum from the system. Grossman
+claims that new data have questioned the validity of this empirical relation where some
+older stars maintain high rotation rates, but fails to link or cite a source. Separately, this
+is corroborated by David Soderblom in his 2010 annual review paper, where he specifies
+that it is mostly useful in ageing stars younger than the Sun (Soderblom, 2010). Grossman
+does not note however that many stars reside in binary systems that can complicate the
+system dynamics, and even worse for the case of α Ori, a rapid rotation rate that cannot be
+described by current evolutionary models (Joyce et al., 2020). This leaves only one effective
+method according left by Grossman: asteroseismological modelling. She oversimplifies what
+is needed to model the seismology of the star by claiming that one needs a large dataset of
+brightness (Grossman & Thompson, 2021). Of course, frequent sampling over a large period
+can reveal pulsation modes in a star that are incredibly important to match in a model,
+but current seismological models also require mass, temperature, and convection parameter
+estimates that all impact the age at which a star will exhibit the observed pulsation modes.
+Mass is incredibly hard to estimate for lone systems like α Ori. Grossman cannot be faulted
+for this necessarily on a general article for ageing stars, but the most poorly understood
+stars are the ones that behave in ways that cannot be solved by these previous methods, and
+she does contextualize the ageing methods by referencing the hype around a potential α Ori
+supernova. Asteroseismological models are impressive in their ability to predict the age of stars in
+an evolutionary phase (except for pre-main sequence and low mass stars) (Soderblom, 2010).
+Asteroseismology can also constrain physical properties that are not possible to acquire
+through other means, and are one of the most accurate ways to currently estimate age. The
+data collection to produce these models however is extremely resource intensive. Frequent
+observation requires a large amount of telescope time (Soderblom, 2010). Very few other
+methods can age a star that does not reside in a cluster, such as isochrone matching and
+lithium depletion measurements (Soderblom, 2010). α Ori does not reside in a cluster, and
+exhibits irregular dynamic properties, making it a big problem for these ageing methods,
+but also a great testing ground for asteroseismology. As the models improve, pulsation
+modes become easier to measure, and more stars become supernova candidates, perhaps
+astronomers will be able to save the date for observing one of the most violent phenomena
+in the universe with modern instrumentation
